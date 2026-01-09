@@ -1,0 +1,27 @@
+# Compiled class file, generated package, etc.
+*.class
+*.jar
+*.war
+*.ear
+/target/  # Maven target directory
+/bin/     # Eclipse output directory
+/build/    # Gradle build directory
+
+# Eclipse Specific
+.settings/
+.project
+.classpath
+
+# Intellij Specific
+.idea/
+
+# Netbeans Specific
+nbproject/
+
+# Operating System Files #
+.DS_Store
+Thumbs.db
+
+# STS (Spring Tool Suite)
+.springBeans
+/bin/
